@@ -10,7 +10,7 @@ function Intro() {
         <p className="text-base md:text-xl mb-3 font-medium">
           Software Engineer & Web Developer
         </p>
-        <p className="text-sm max-w-xl mb-6 font-bold">
+        <p className="text-sm max-w-xl mb-6">
           👋 Hello World! I'm Nipun Agarwal, a passionate and forward-thinking
           Computer Science enthusiast hailing from the vibrant city of
           Hyderabad, India. Anticipating the completion of my Bachelor's degree
