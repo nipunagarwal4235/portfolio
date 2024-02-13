@@ -12,6 +12,12 @@ export default [
     link: "https://fery.vercel.app/",
   },
   {
+    title: "My Resume",
+    imgUrl: "/assets/resume.jpeg",
+    stack: ["HTML", "CSS", "Javascript"],
+    link: "https://nipunagarwal4235.github.io/my-resume/",
+  },
+  {
     title: "Gaming Website",
     imgUrl: "/assets/gaming.jpeg",
     stack: ["React", "TailwindCSS", "Javascript"],
@@ -26,31 +32,31 @@ export default [
   {
     title: "Expense Tracker",
     imgUrl: "/assets/expense.jpeg",
-    stack: ["React", "TailwindCSS", "Javascript"],
+    stack: ["React", "CSS", "Javascript"],
     link: "https://nipunagarwal4235.github.io/expense-tracker/",
   },
   {
     title: "Color Generator",
     imgUrl: "/assets/colorful.jpeg",
-    stack: ["React", "TailwindCSS", "Javascript"],
+    stack: ["React", "CSS", "Javascript"],
     link: "https://nipunagarwal4235.github.io/react-color-generator/",
   },
   {
     title: "Lorem Ipsum Generator",
     imgUrl: "/assets/lorem.jpeg",
-    stack: ["React", "TailwindCSS", "Javascript"],
+    stack: ["React", "CSS", "Javascript"],
     link: "https://nipunagarwal4235.github.io/loremipsum-react/",
   },
   {
     title: "Joke Teller",
     imgUrl: "/assets/joke.jpeg",
-    stack: ["React", "TailwindCSS", "Javascript"],
+    stack: ["HTML", "CSS", "Javascript","API"],
     link: "https://nipunagarwal4235.github.io/loremipsum-react/",
   },
   {
     title: "Unlimited Scroll",
     imgUrl: "/assets/unsplash.jpeg",
-    stack: ["React", "TailwindCSS", "Javascript"],
+    stack: ["HTML", "CSS", "Javascript","API"],
     link: "https://nipunagarwal4235.github.io/loremipsum-react/",
   },
 ];
