@@ -1,5 +1,11 @@
 export default [
   {
+    title: "Discord Bot",
+    imgUrl: "/assets/discordbot.png",
+    stack: ["Node.js", "Discord API", "Discord.js"],
+    link: "https://discord.com/api/oauth2/authorize?client_id=1209211711014568048&permissions=8&scope=bot+applications.commands",
+  },
+  {
     title: "University Incubator Website",
     imgUrl: "/assets/incubatorwebsite.jpeg",
     stack: ["React", "TailwindCSS", "Javascript"],
