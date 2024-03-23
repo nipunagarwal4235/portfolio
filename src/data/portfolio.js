@@ -1,5 +1,23 @@
 export default [
   {
+    title: "React Ecommerce",
+    imgUrl: "/assets/ecommerce.jpeg",
+    stack: ["React", "Redux", "NodeJs", "ExpressJs", "Stripe", "Passport"],
+    link: "https://ecommerce-mu-rose.vercel.app/",
+  },
+  {
+    title: "Cinema GPT",
+    imgUrl: "/assets/cinemagpt.jpeg",
+    stack: ["React", "Redux", "NodeJs", "ExpressJs", "Firebase", "Open AI"],
+    link: "https://cinema-beta-ten.vercel.app/",
+  },
+  {
+    title: "Quiz App",
+    imgUrl: "/assets/quiz.jpeg",
+    stack: ["React","Redux", "NodeJs", "Express Js", "REST API"],
+    link: "https://quiz-mern-three.vercel.app/",
+  },
+  {
     title: "Discord Bot",
     imgUrl: "/assets/discordbot.png",
     stack: ["Node.js", "Discord API", "Discord.js"],
